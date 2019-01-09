@@ -1,0 +1,7 @@
+My tests have shown that:
+the background images and the .fxml file must be in the same resources folder.
+If you change the resource folder name it doesn't work.
+I think it have something to do with the standard naming in javafx.
+This folder must be marked als resource map!
+
+I also recognized that the second image glitched away.
